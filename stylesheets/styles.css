@@ -1,0 +1,28 @@
+body {
+  background-color: #b6dbca;
+}
+
+header {
+  text-align: center;
+  background-color: #FFFFFE;
+  box-shadow: 10px 10px 5px #888888;
+  overflow: hidden;
+  padding: 0;
+}
+
+.main-header {
+  padding: 1em;
+  font-family: 'Dosis', sans-serif;
+  float: left;
+  font-size: 2em;
+  color: #e8b71a;
+}
+
+.add-app {
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  font-size: 2em;
+  text-decoration: none;
+  color: #e8b71a;
+}
